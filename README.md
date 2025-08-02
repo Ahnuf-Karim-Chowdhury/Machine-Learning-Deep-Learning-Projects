@@ -1,5 +1,11 @@
 ## 🧠 Machine Learning & Deep Learning Projects
 
+This repository showcases a curated collection of machine learning and deep learning projects developed using various models, datasets, and frameworks. Each project demonstrates practical applications of supervised learning, neural networks, model evaluation, and performance analysis across real-world scenarios.
+
+---
+
+## 🧠 Machine Learning & Deep Learning Projects
+
 ### 📘 [Student Grade Prediction using Linear Regression](https://github.com/Ahnuf-Karim-Chowdhury/Student-Grade-Prediction-using-Linear-Regression.git)
 Predicts student grades using linear regression. Includes data preprocessing, model training, evaluation, and visualization for educational insights.
 
@@ -27,3 +33,4 @@ Compares Linear Models, MLPs, and CNNs on the FashionMNIST dataset. Includes cod
 
 ### 🍕 [TinyVGG vs ResNet18 - Food Classification](https://github.com/Ahnuf-Karim-Chowdhury/TinyVGG-Vs-ResNet18-Deep-Learning-Model-Performance-Evaluation-on-Food-Data.git)
 Head-to-head comparison of custom TinyVGG and pretrained ResNet18 on food images (pizza, steak, sushi). Benchmarked with 15+ metrics including ROC-AUC, precision, and confusion matrices (0.97 vs 0.44).
+
